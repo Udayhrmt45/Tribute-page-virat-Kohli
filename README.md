@@ -3,6 +3,7 @@
 <hr>
 <p>
   by Uday Hiremath
+  <br>
   A short discription on Virat Kohli.
 </p>
 <h2>Technologies used</h2>
